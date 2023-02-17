@@ -1,2 +1,5 @@
-var myString = "My first javascript variable"
-console.log(myString)
+// Setup
+var a;
+
+// Only change code below this line
+var a = 7;
