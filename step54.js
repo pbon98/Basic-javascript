@@ -9,4 +9,5 @@ function myOutfit() {
   return outerWear;
 }
 
-myOutfit();
+console.log( myOutfit() )
+console.log(outerWear)
