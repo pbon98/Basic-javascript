@@ -6,3 +6,4 @@ let c = 3;
 a -= a - 5;
 b -= b - -6;
 c -= c - 2;
+console.log(a, b, c)
