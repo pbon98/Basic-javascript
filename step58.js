@@ -5,3 +5,5 @@ function welcomeToBooleans() {
   
     // Only change code above this line
   }
+  console.log( welcomeToBooleans() )
+  console.log(true)
