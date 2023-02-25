@@ -4,3 +4,4 @@ function functionWithArgs( num1, num2 ) {
   }
   
   functionWithArgs(420,69)
+  console.log(functionWithArgs)
