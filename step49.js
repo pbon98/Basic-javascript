@@ -3,3 +3,4 @@ function reusableFunction() {
   }
   
   reusableFunction()
+  console.log(reusableFunction)
