@@ -5,3 +5,4 @@ const myList = [
     [ "peanuts" , 5 ],
     ["berry's" , 1 ]
   ] 
+  console.log(myList)
