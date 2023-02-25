@@ -7,3 +7,6 @@ function testEqual(val) {
   }
   
   testEqual(10);
+  console.log(testEqual(10))
+  
+  
