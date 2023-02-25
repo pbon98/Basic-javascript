@@ -6,5 +6,6 @@ const myArray = [
   ];
   
   const myData = myArray[2][1];
+  console.log(myData)
   
   
