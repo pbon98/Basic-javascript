@@ -10,7 +10,7 @@ function addFive() {
   sum = sum + 5
 }
 
-
+console.log(sum)
 // Only change code above this line
 
 addThree();
