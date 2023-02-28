@@ -4,7 +4,7 @@ function testLogicalOr(val) {
     if (val > 20 || val < 10 ) {
       return "Outside";
     }
-  
+  console.log(val > 20 || val < 10)
   
     // Only change code above this line
     return "Inside";
