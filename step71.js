@@ -7,7 +7,7 @@ function testElse(val) {
     } else {
       result = "5 or Smaller";
     }
-  
+  console.log(val > 5)
   
     // Only change code above this line
     return result;
