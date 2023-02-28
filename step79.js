@@ -18,7 +18,7 @@ function chainToSwitch(val) {
     answer = "Ate Nine";
     break;
   }
-   
+   console.log(val)
   
     // Only change code above this line
     return answer;
