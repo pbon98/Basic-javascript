@@ -1,6 +1,7 @@
 let count = 0;
 
 function cc(card) {
+  console.log(card)
   // Only change code below this line
   switch(card) {
     case 2: 
