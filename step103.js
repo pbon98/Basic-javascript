@@ -1,4 +1,5 @@
 function sum(arr, n) {
+  console.log(arr, n)
     // Only change code below this line
    if ( n <= 0 ){
      return 0;
@@ -7,4 +8,3 @@ function sum(arr, n) {
    }
     // Only change code above this line
   }
-  console.log(sum)
