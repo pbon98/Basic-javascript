@@ -5,7 +5,8 @@ function orderMyLogic(val) {
       return "Less than 10";
     } else {
       return "Greater than or equal to 10";
+  
     }
   }
-  
+  console.log(orderMyLogic)
   orderMyLogic(7);
