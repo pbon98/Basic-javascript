@@ -22,3 +22,5 @@ const myMusic = [
     
     }
   ];
+
+  console.log(myMusic)
