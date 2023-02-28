@@ -5,5 +5,5 @@ function testNotEqual(val) {
     }
     return "Equal";
   }
-  
+  console.log(testNotEqual)
   testNotEqual(10);
