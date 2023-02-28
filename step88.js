@@ -4,5 +4,6 @@ const myDog = {
     "tails": 1,
     "friends": ["freeCodeCamp Campers"]
   };
+  console.log(myDog)
   myDog.bark = "Woof Woof"
   
