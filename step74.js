@@ -15,5 +15,5 @@ function testSize(num) {
     return "Change Me";
     // Only change code above this line
   }
-  
+  console.log(testSize)
   testSize(7);
