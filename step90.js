@@ -1,7 +1,7 @@
 // Setup
 function phoneticLookup(val) {
     let result = "";
-  
+    console.log(val)
     // Only change code below this line
     var lookup = {
       "alpha": "Adams",
