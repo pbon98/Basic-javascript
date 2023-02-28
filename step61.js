@@ -4,6 +4,6 @@ function testStrict(val) {
       return "Equal";
     }
     return "Not Equal";
+    console.log(testStrict)
   }
-  
   testStrict(10);
