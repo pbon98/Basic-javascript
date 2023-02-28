@@ -1,5 +1,6 @@
 function switchOfStuff(val) {
     let answer = "";
+    console.log(val)
     // Only change code below this line
   switch(val) {
   case "a":
