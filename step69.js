@@ -6,7 +6,7 @@ function testLogicalAnd(val) {
         return "Yes";
       
     }
-  
+    console.log(val <= 50 && val >= 25)
     // Only change code above this line
     return "No";
   }
