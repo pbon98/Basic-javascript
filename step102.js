@@ -1,5 +1,6 @@
 function multiplyAll(arr) {
     let product = 1;
+    console.log(arr)
     // Only change code below this line
   for (var i = 0; i < arr.length; i++){
     for (var j = 0; j < arr[i].length; j++) {
@@ -11,4 +12,4 @@ function multiplyAll(arr) {
   }
   
   multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
-  console.log(multiplyAll)
+  
